@@ -1,0 +1,21 @@
+.contacts-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .contacts-container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .contact-info {
+    margin-bottom: 30px;
+  }
+  
+  .contact-info h2, .contact-form h2 {
+    font-size: 1.5em;
+    color: #555;
+    margin-bottom: 10px;
+  }

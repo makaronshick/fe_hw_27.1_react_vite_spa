@@ -1,0 +1,25 @@
+.nav_header {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    margin-top: 20px;
+    width: 100%;
+}
+
+.nav_link {
+    display: flex;
+    margin: 20px;
+    color: rgb(35, 33, 33);
+    text-decoration: none;
+    font-size: 1.1em;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.nav_link:hover {
+    background-color: #918b8b;
+  }
+  
